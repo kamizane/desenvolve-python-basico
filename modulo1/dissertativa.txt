@@ -1,0 +1,5 @@
+﻿1- Forneça o valor que será multiplicado por 9
+2- o Algarismo da dezena corresponde ao valor fornecido subtraído 1
+3- o algarismo da unidade corresponde a 10 subtraído o valor fornecido
+4- pegue o valor do passo 2 e multiplique por 10, depois some o valor do passo 3
+5- o valor obtido no passo 4 é o resultado
