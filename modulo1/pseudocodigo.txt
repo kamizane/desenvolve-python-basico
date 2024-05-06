@@ -1,0 +1,5 @@
+﻿1- LEIA (n)
+2- dezena ← n-1
+3- unidade ←  10 - n
+4- resultado ← (dezena * 10) + unidade
+5- Mostre (resultado)
