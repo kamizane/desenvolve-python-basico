@@ -1,0 +1,12 @@
+lista = list()
+qnt_elementos = int(input("Digite a quantidade de elementos da lista(min:4): "))
+print("Digite os %d elementos: " % (qnt_elementos))
+for i in range(qnt_elementos):
+    elementos = int(input())
+    lista.append(elementos)
+print(lista)
+print(lista[0:3])
+print(lista[-1:-3:-1])
+print(lista[::-1])
+print(lista[::2])
+print(lista[1::2])
